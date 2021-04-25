@@ -1,0 +1,11 @@
+.DS_Store
+*.swp
+*.swo
+.env
+.idea
+
+node_modules
+npm-debug.*
+
+readme.md
+.env
